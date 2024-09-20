@@ -1,0 +1,24 @@
+# Terraform files
+*Base/.tfstate
+*Base/.tfstate.*
+*Base/.tfvars
+Base/.terraform/
+Base/.terraform.lock.hcl
+
+# Local .terraform directory
+Base/.terraform/
+
+
+# Backup files
+*.bak
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
